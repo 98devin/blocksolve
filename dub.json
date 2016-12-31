@@ -1,0 +1,11 @@
+{
+	"name": "blocksolve",
+	"authors": [
+		"Devin Hill"
+	],
+	"description": "\"\"",
+	"copyright": "Copyright © 2016, Devin",
+	"license": "proprietary",
+	"mainSourceFile": "source/blocksolve/solver.d",
+	"targetType": "executable"
+}
